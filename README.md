@@ -1,4 +1,4 @@
-# 🦈 Shark-Tank-India-Series-Analysis Using Python
+# 🦈 Shark-Tank-India-EDA-Using Python
 
 ## 📄 Overview
 Analyzed Shark Tank India data to uncover key trends, including episode counts, entrepreneur participation, brand involvement, industry dominance, and regional activity. Examined deal trends and investment patterns across seasons, highlighting the most and least invested sharks and top equity gains.
